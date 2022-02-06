@@ -1,6 +1,5 @@
 ### Hi there 🖐️
-:wave:
-<img src="https://github.com/Ar1esMax1m/Ar1esMax1m/master/header.png">
+<img src="https://raw.githubusercontent.com/Ar1esMax1m/Ar1esMax1m/master/header.png">
 
 <!--
 **Ar1esMax1m/Ar1esMax1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
